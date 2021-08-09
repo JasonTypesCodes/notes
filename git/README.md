@@ -20,4 +20,4 @@
     + `git fetch --prune`
   + Changing user information for a single repo
     + CD into specific repo
-    + `git config --local user.email "an@email.address"
+    + `git config --local user.email "an@email.address"`
